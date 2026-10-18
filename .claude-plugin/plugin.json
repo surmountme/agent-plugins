@@ -1,0 +1,14 @@
+{
+	"name": "agent-plugins",
+	"version": "0.0.1",
+	"description": "学习创建Plugin的示例",
+	"author": {
+		"name": "Surpassme",
+		"email": "support@surpassme.net"
+	},
+	"license": "查看文件 LICENSE",
+	"keywords": [
+		"demo",
+		"plugin"
+	]
+}
