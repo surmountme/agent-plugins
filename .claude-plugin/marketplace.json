@@ -1,0 +1,22 @@
+{
+    "name": "surpassme-agent-plugins",
+    "description": "Surpassme 的私有插件市场",
+    "owner": {
+        "name": "Surpassme",
+        "email": "support@surpassme.net"
+    },
+    "plugins": [
+        {
+            "name": "hello",
+            "version": "0.0.1",
+            "description": "学习创建Plugin的示例",
+            "author": {
+                "name": "Surpassme",
+                "email": "support@surpassme.net"
+            },
+            "source":"./plugins/hello",
+            "category":"Demo",
+            "homepage":"https://github.com/surmountme/agent-plugins/tree/main/plugins/hello"
+        }
+    ]
+}

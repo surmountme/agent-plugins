@@ -1,5 +1,5 @@
 {
-	"name": "agent-plugins",
+	"name": "hello",
 	"version": "0.0.1",
 	"description": "学习创建Plugin的示例",
 	"author": {
